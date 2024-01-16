@@ -32,3 +32,5 @@ This is a simple Snake Game implemented in Python using the Turtle graphics libr
 - Ensure you have Python installed on your system.
 - Copy the provided code into a Python file (e.g., snake_game.py).
 - Run the script using a Python interpreter.
+### Run:
+- python snake_game.py
